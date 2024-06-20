@@ -13,5 +13,10 @@ imagens/balls.svg: An SVG image of balls that is positioned at the bottom right 
 
 ##  Built with
 
-HTML
-CSS
+- HTML
+- CSS
+- 
+## Screenshots
+
+![App Screenshot](https://i.imgur.com/uUAmSv5.png)
+
